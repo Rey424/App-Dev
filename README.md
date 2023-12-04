@@ -1,2 +1,6 @@
 # App-Dev
-My first repository
+## My favorite series/movie
+
+1. John Wick 
+2. Suzume
+3. Vanguard
